@@ -1,0 +1,17 @@
+# Build folders
+build/
+dist/
+out/
+
+# NetBeans
+nbproject/
+
+# Class files
+*.class
+
+# JAR files
+*.jar
+
+# IDE
+.idea/
+.vscode/

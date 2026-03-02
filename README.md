@@ -1,1 +1,1 @@
-# forsencic-face-sketch-construction-and-recognition
+# Forensic-Face-Sketch-Construction-and-Recognition
